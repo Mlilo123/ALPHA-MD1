@@ -17,7 +17,7 @@
       "value": ".",
       "required": true
     },
-    "AUTO_READ_STATUS": {
+    "AUTO_READ_STATUS": {"yes" 
       "description": "Your contact status will be read automatically(type yes to active or no to deactive  ; don't write in capital letter)",
       "value": "yes",
       "required": false
@@ -42,7 +42,7 @@
       "value": "no",
       "required": false
     },
-    "BOT_NAME": {
+    "BOT_NAME": {"Mlilo123" 
       "description": "put A name for your bot",
       "value": "ALPHA-MD",
       "required": false
@@ -62,27 +62,27 @@
       "value" : "", 
       "required": false
     },
-    "HEROKU_APP_NAME": {
+    "HEROKU_APP_NAME": {"Mlilo123" 
       "description": "insert your heroku APP NAME (OPTIONAL)",
       "value" : "", 
       "required": false
     },
-    "SESSION_ID": {
+    "SESSION_ID": {"eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQURmOTZ1Y3JWKzNCNFlFU0M1eS9pd1RkaDdhUi9kblZSbkppajNoUGkxND0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiVERMNW1yZnNGZmdaSElWRFVlUkx5WURpaU9rN3RYYkRuLzFzYWtOVk1sdz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJhTkdJekEvWFMydW94dmI2dTdRdGFZNjdPS0hkb1BhVDZpVDdMNzlLNzFVPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJKVVBrOWtSajhnamZLN1EvUTFTcndaaFdxMnhNSGVKQmY4b0JEQnQwenp3PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImFNZWxjejhSdFFKK3Jab2NvYnRKU0pSTEhmZnRuWmE0eC9iVDA3bVRTVkk9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ikg2QUJxQkZRTU1KY1R0WXJoUmQvUnMxMC9FSkppVi8vS1lQczY4OFIvU0U9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNk5RRHpMdlNRcmFXa0xlRTlsYUxZdkFEYXcvU0d2UkdJMzBKQk5VWTRWWT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUEpQQnoveDhZZlNjUHlXeU1qc2lVbU9TZmdzNit1SHo1WTZGNFVpSm8xST0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IldKUjdmbStzMzVzQWF1R0ZlSnM0a2J3TU1jSnNSQ0JiQUdwRXJOOGxoZTZObFdURGdGMHo5UnJteHVGVWlsaUFySnp6SVg0cloxa3ZuYWVMK3VHb2pRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjQsImFkdlNlY3JldEtleSI6Im9iQXVvenhzOTJaNHRiZjdlL0k5bGk5ZGlwZGRPbVY5SCtTbm1FSEN3R3M9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6Ik1RLW8tZU4tUy1lSlM4VmNxTHpDVUEiLCJwaG9uZUlkIjoiN2NiYjIwMjYtNzQ4My00OGM0LTk4NGYtMDY1ODQ4NThiYWRhIiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImROcTlHeXlpdnI5Tm9OcE1aRlEvMkdkZlBYUT0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJtUlNTT0taMndua2JPMXBDV0VLTll2WmVDY0E9In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiWDJXSjJaTjciLCJtZSI6eyJpZCI6IjI2Mzc4NDA2MDg0MDozQHMud2hhdHNhcHAubmV0IiwibmFtZSI6Ik1saWxvMTIzNDUifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ0srQnlZUUNFS1Q2bkxrR0dBTWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6IlpJMnhQWnFqSDhKWjNwdkEraDkxOEc0OGRKd1JsWTVTdHFZYWdNZFRaQWc9IiwiYWNjb3VudFNpZ25hdHVyZSI6IndBOTliMGV3R05odXpOSXcvRUYzVmtNRVRLaTh4cE1mdm9EWjU2LzdieEFsMzQzOVRUR242RlU2VUQwVHpVVFRSeUxMZEM5SjdiUzVZck9zOTVRVkNBPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJnMlRCY1FTSG53ZE1tcDg5eGdXWVVVMkVJZXc0Mm9CY1JVWkZKTHB2Zk42N0o1RUpFczZrQ05ML1lkcFNDRDVUeHlUbHVpUVoyUmVsTjk3RHR6YjBqdz09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjI2Mzc4NDA2MDg0MDozQHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQldTTnNUMmFveC9DV2Q2YndQb2ZkZkJ1UEhTY0VaV09VcmFtR29ESFUyUUkifX1dLCJwbGF0Zm9ybSI6InNtYmEiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MzA2MjQ4MTgsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBSGVwIn0=" 
       "description": "put your session ID , the code you receive after scanning Qr code",
       "value": "",
       "required": true
     },
-    "OWNER_NAME": {
+    "OWNER_NAME": {"Mlilo123" 
       "desc": "Your Name",
       "required": false,
       "value": "keithkeizzah"
     },
-    "NUMERO_OWNER": {
+    "NUMERO_OWNER": {"263737072041" 
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
       "required": false,
       "value": "254796299159"
     },
-    "WARN_COUNT": {
+    "WARN_COUNT": {"3"
       "desc": "this is the limit of warn for warning commandes",
       "required": false,
       "value": "3"
@@ -97,7 +97,7 @@
       "value": "",
       "required": false
     },
-    "ANTI_DELETE_MESSAGE": {
+    "ANTI_DELETE_MESSAGE": {"yes"
       "description": "if you want to enable anti delete message put yes else put no",
       "value": "no",
       "required": false
